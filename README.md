@@ -11,8 +11,6 @@ An AI-powered assistive device that helps blind and visually impaired individual
 - **Multilingual Support:**
   - English
   - Hindi (हिंदी)
-  - Marathi (मराठी)
-  - Automatic language detection
 
 - **Advanced AI Integration:**
   - Free speech-to-text (SpeechRecognition + Vosk offline)
@@ -163,7 +161,6 @@ The system automatically detects your language and responds accordingly:
 
 - **English:** Speak naturally, AI responds in English
 - **हिंदी (Hindi):** हिंदी में बोलें, जवाब भी हिंदी में मिलेगा
-- **मराठी (Marathi):** मराठीत बोला, उत्तर मराठीतच मिळेल
 
 ## 🔑 API Keys Required
 ### Google Gemini (Vision AI)
